@@ -1,5 +1,13 @@
-## Hi there 👋
+## fancy seeing you here 👋
 
+It's my first time programming, and I'm currently learning Python! I hope to use this to document my learning journey, and hopefully build some cool stuff at the end of it 🌷
+
+###🍒 some fun facts about me: 
+- Drinking coffee to power through the day
+- Building giant tree houses on minecraft
+- Marking my notion Kanban with lots of emojis 
+- Casual enjoyer of drums (not skilled enough to call myself a drummer... yet)
+- Loves to drink 
 <!--
 **orangecharli/orangecharli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
