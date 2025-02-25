@@ -7,7 +7,15 @@ It's my first time programming, and I'm currently learning Python! I hope to use
 - Building giant tree houses on minecraft
 - Marking my notion Kanban with lots of emojis 
 - Casual enjoyer of drums (not skilled enough to call myself a drummer... yet)
-- Loves to drink 
+- Loves to drink
+
+### 💡my actual skills 
+_feel free to contact me if (1) you want to hire me (yes! I do freelance) (2) if you just wanna have a chat!_ 
+- **UX/CX and Market/ product Research**: I'm a mixed methods researcher, familiar with both quan and quali methods)
+- **SQL**: Proficient
+- **Data analysis**: In my daily job, I work with large datasets, and monitor and investigate data trends  
+- Equipped with a **psychology degree** 
+
 <!--
 **orangecharli/orangecharli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
