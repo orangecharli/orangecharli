@@ -2,7 +2,7 @@
 
 It's my first time programming, and I'm currently learning Python! I hope to use this to document my learning journey, and hopefully build some cool stuff at the end of it 🌷
 
-###🍒 some fun facts about me: 
+### 🍒 some fun facts about me: 
 - Drinking coffee to power through the day
 - Building giant tree houses on minecraft
 - Marking my notion Kanban with lots of emojis 
